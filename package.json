@@ -12,5 +12,16 @@
     "token"
   ],
   "author": "Priya Ranjan Singh",
-  "license": "UNLICENSED"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crashuniverse/auth0-token"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "engines": {
+    "node": ">=6.2.2"
+  },
+  "dependencies": {
+    "auth0-api-tokens": "^1.1.0"
+  }
 }
